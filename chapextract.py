@@ -1,4 +1,5 @@
 #!/usr/bin/python2
+
 # -*- coding: utf-8 -*-
 
 import sys, locale, bs4, unicodedata, re
