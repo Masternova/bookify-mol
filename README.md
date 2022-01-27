@@ -8,7 +8,7 @@ You can find a list of the Reddit discussion threads related to the novel on [th
 This is published with permission of the novel's author, the repository will be taken down if that permission is ever rescinded.
 
 ## Requirements / stuff used by these scripts
-* cookies from the webpage after opening in your browser. You can use https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/ to get the file. Place it in the root of the working directory
+* cookies from the webpage after opening in your browser. You can use https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/ to get the file. Place it in dl directory
 * bash
 * standard linux userland tools:
   * sed
