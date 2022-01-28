@@ -35,5 +35,5 @@ bash build.sh
 ```
 
 ## Other tools used
-https://github.com/gonejack/html-to-epub
-https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/
+*`html to epub` to convert the end results https://github.com/gonejack/html-to-epub
+*`cookies-txt` to get through the websites security https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/
